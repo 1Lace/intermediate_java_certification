@@ -1,4 +1,4 @@
-package intermediate_java_certification;
+
 import java.util.*;
 
 public class main {
